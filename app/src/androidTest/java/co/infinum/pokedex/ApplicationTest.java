@@ -1,4 +1,4 @@
-package co.infinum.okhttpclientexample;
+package co.infinum.pokedex;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
